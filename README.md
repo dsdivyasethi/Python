@@ -1,5 +1,7 @@
 # Python
 This repository contains Python code examples covering both basic and advanced concepts. Whether you're new to Python programming or looking to deepen your understanding of the language, you'll find useful examples and explanations here.
+
+
 Basic Concepts
 In the basic/ directory, you will find Python code examples covering fundamental concepts such as:
 
